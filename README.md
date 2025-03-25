@@ -2,7 +2,6 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nettoalves0_/)
 
-[![Edilson GitHub stats](https://github-readme-stats.vercel.app/api?username=Netin0007&show_icons=true&theme=dark)]
 
 ## Tecnologias que uso no meu dia
 <div style="display block: inline_block"><br/>
